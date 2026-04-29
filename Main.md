@@ -2,7 +2,13 @@
 
 # Soon . . .
 
-**Performance UI**
+**Performance UI 🖥**
+- Show Username
+- Show FPS
+- Show Ping
+- Show Memory Usage
+
+---
 
 **Webhook Discord**
 
