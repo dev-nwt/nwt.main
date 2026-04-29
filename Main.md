@@ -1,5 +1,7 @@
 # Carrot Project 🛠
 
+<img src="https://img.shields.io/badge/Open-Source-00cc00?logo=opensourcehardware&logoColor=white" />
+
 **Performance Overlay 🖥**   
 Version 1.0.2
 - Show DisplayName
@@ -29,15 +31,4 @@ Version 1.0.2
 [Download Webhook Discord Script](https://github.com/li1Carr0t/Carrot/releases/download/1.0.3/WebhookTest.lua)
 
 ---
-too lazy ;-; (update more soon...)\
-**Basic Whitelist**
-
-**Black Screen**
-
-**Credit Status V2**
-
-**Key System**
-
-**Map Checker**
-
-**Toggle UI**
+too lazy ;-; (update more soon...)
