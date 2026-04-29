@@ -29,7 +29,7 @@ Version 1.0.2
 [Download Webhook Discord Script](https://github.com/li1Carr0t/Carrot/releases/download/1.0.3/WebhookTest.lua)
 
 ---
-too lazy ;-; (update more soon...)
+too lazy ;-; (update more soon...)\
 **Basic Whitelist**
 
 **Black Screen**
