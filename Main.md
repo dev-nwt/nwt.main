@@ -1,7 +1,5 @@
 # Carrot Project 🛠
 
-# Soon . . .
-
 **Performance Overlay 🖥**   
 Version 1.0.2
 - Show DisplayName
