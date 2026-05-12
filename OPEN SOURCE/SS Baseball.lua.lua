@@ -1,7 +1,8 @@
 -- Use it when you batting
 -- Discord _real.840hz
 
-_G.Hitbox = true
+-- Working only in Training Ground!
+_G.Hitbox = false
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
