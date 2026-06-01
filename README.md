@@ -17,7 +17,7 @@ dev-nwt.lua is a **Roblox script** built for developers and educators.
 
 > [!IMPORTANT] 
 > Status : **ACTIVE 🔥**    
-> Build : **[v1.0.3](https://github.com/li1Carr0t/Carrot/blob/main/ReleasesLog.md)**
+> Build : **[v1.0.3](https://github.com/dev-nwt/nwt.main/blob/main/ReleasesLog.md)**
 
 - ⚡️ Fast Execution
 - ✨ Beautiful UI
@@ -35,9 +35,9 @@ dev-nwt.lua is a **Roblox script** built for developers and educators.
 
 **🛠 Get Start**
 
-**[🗂 View Source Code](https://github.com/li1Carr0t/Carrot/tree/main/OPEN%20SOURCE)**    
-**[📥 Download Source Code](https://github.com/li1Carr0t/Carrot/releases)**    
-**[🌙 Nightly Builds](https://github.com/li1Carr0t/Carrot/blob/main/DevelopmentBuild-Log.md)**
+**[🗂 View Source Code](https://github.com/dev-nwt/nwt.main/tree/main/OPEN%20SOURCE)**    
+**[📥 Download Source Code](https://github.com/dev-nwt/nwt.main/releases)**    
+**[🌙 Nightly Builds](https://github.com/dev-nwt/nwt.main/blob/main/DevelopmentBuild-Log.md)**
 
 > Owner : **dev.nwt**    
 
