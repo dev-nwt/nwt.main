@@ -54,10 +54,3 @@ dev-nwt.lua is a **Roblox script** built for developers and educators.
 
 - Discord : **dev-nwt**
 - GitHub : **[GitHub](https://github.com/dev-nwt)**
-- My Template : **[Template](https://github.com/li1Carr0t/CarrotTemplate/releases/tag/1.0.0)**
-
-- My Developer GitHub : **[CrystalRush](https://github.com/Keehea918/CrystalRush)**
-
-<p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/118/736/916/gawr-gura-hololive-blue-eyes-white-hair-hd-wallpaper-preview.jpg" width="450" />
-</p
