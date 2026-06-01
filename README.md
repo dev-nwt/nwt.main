@@ -1,9 +1,9 @@
 <h1 align="center">🖥 Dev-NWT.lua</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Carrot-ffccff?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-NWT-ffccff?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-100%25-0099ff?logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Carrot-Developer-660099?logo=setuptools&logoColor=white" />
+  <img src="https://img.shields.io/badge/NWT-Developer-660099?logo=setuptools&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox%20Exploit-red?logo=robloxstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/MIT%20License-9900ff?logo=opensourceinitiative&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Open-Source-00cc00?logo=opensourcehardware&logoColor=white" />
