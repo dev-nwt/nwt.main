@@ -1,4 +1,4 @@
-<h1 align="center">🖥 CarrotClient.exe</h1>
+<h1 align="center">🖥 Dev-NWT.lua</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Carrot-ffccff?logo=github&logoColor=white" />
@@ -13,7 +13,7 @@
 
 **🧠 About Project**
 
-CarrotClient is a **Roblox script** built for developers and educators.
+dev-nwt.lua is a **Roblox script** built for developers and educators.
 
 > [!IMPORTANT] 
 > Status : **ACTIVE 🔥**    
@@ -26,10 +26,9 @@ CarrotClient is a **Roblox script** built for developers and educators.
 ---
 **👩🏻‍💻 About**
 
-👤 Name : **Carrot**    
-⌨️ Status : **Relax Time**    
+👤 Name : **Natta**     
 💻 Role : **Roblox Developer / Exploit 𐔌՞. .՞𐦯**    
-🔧 Skill : **Lua**    
+🔧 Skill : **Lua, Luau**    
 💫 Style : **Exploiter**
 
 ---
@@ -40,8 +39,7 @@ CarrotClient is a **Roblox script** built for developers and educators.
 **[📥 Download Source Code](https://github.com/li1Carr0t/Carrot/releases)**    
 **[🌙 Nightly Builds](https://github.com/li1Carr0t/Carrot/blob/main/DevelopmentBuild-Log.md)**
 
-> Owner : **li1Carr0t**    
-> Develoeper : **keehea918**
+> Owner : **dev.nwt**    
 
 ---
 
@@ -54,8 +52,8 @@ CarrotClient is a **Roblox script** built for developers and educators.
 
 **🌐 Contect**
 
-- Discord : **lil.carr0t**
-- GitHub : **[GitHub](https://github.com/li1Carr0t)**
+- Discord : **dev-nwt**
+- GitHub : **[GitHub](https://github.com/dev-nwt)**
 - My Template : **[Template](https://github.com/li1Carr0t/CarrotTemplate/releases/tag/1.0.0)**
 
 - My Developer GitHub : **[CrystalRush](https://github.com/Keehea918/CrystalRush)**
