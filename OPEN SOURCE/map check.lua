@@ -1,9 +1,5 @@
--- Made by 840Hz
-
-if game.PlaceId == 2753915549 then
-	print("Wow You Here")
-elseif game.PlaceId == 4442272183 then
-	print("yoo you in other map")
-else
-   game.Players.LocalPlayer:Kick("Reason Here / Mot Found Map")  -- Reason Here
-end
+local function _0x1(t) local s="" for i=1,#t do s=s .. string.char(t[i]) end return s end;local function decode(str) local out="" for num in str:gmatch("%d+") do out=out .. string.char(tonumber(num)) end return out end
+local Byte={[1]={49,48,51,44,57,55,44,49,48,57,44,49,48,49},[2]={56,48,44,49,48,56,44,57,55,44,57,57,44,49,48,49,44,55,51,44,49,48,48},[3]={56,48,44,49,48,56,44,57,55,44,49,50,49,44,49,48,49,44,49,49,52,44,49,49,53},[4]={55,54,44,49,49,49,44,57,57,44,57,55,44,49,48,56,44,56,48,44,49,48,56,44,57,55,44,49,50,49,44,49,48,49,44,49,49,52},}
+local Number={[1]={53,54,44,52,56,44,52,52,44,52,57,44,52,56,44,53,54,44,52,52,44,53,55,44,53,53,44,52,52,44,53,55,44,53,55,44,52,52,44,52,57,44,52,56,44,52,57,44,52,52,44,53,53,44,53,49,44,52,52,44,52,57,44,52,56,44,52,56},[2]={53,50,44,53,50,44,53,50,44,53,48,44,53,48,44,53,53,44,53,48,44,52,57,44,53,54,44,53,49},}
+local Data = {[1]=decode(_0x1(Byte[1])),[2]=decode(_0x1(Byte[2])),[3]=decode(_0x1(Number[1])),[4]=decode(_0x1(Number[2])),[5]=decode(_0x1(Byte[3])),[6]=decode(_0x1(Byte[4])),}
+if _0x1(Data[1])[_0x1(Data[2])]==_0x1(Data[3]) then print("Wow You Here") elseif _0x1(Data[1])[_0x1(Data[2])]==_0x1(Data[4]) then print("yoo you in other map") else _0x1(Data[1])[_0x1(Data[3])][_0x1(Data[4])]:Kick("Reason Here / Mot Found Map") end
